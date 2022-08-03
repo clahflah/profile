@@ -45,6 +45,9 @@ button:hover{
 .img_round{
   border-radius: 50%;
 }
+#link{
+  color: white;
+}
 
 #prof_pic {
   height: 8rem;
